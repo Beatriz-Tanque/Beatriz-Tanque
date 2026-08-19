@@ -41,14 +41,6 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 
 </div>
 
-## `> skills --learning`
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-16213E?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-</div>
-
 <br/>
 
 ## `> tools --active`
@@ -77,8 +69,6 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
   <tr><td>🎓 Comunicação e Mobilização com IA</td></tr>
   <tr><td>🎓 Negociação</td></tr>
 </table>
-
-<sub>Fundação Bradesco — Escola Virtual</sub>
 
 </div>
 
@@ -138,34 +128,12 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 
 <br/>
 
-## `> achievements --unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Beatriz-Tanque&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<br/>
-
-## `> contribution_graph.snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Beatriz-Tanque/Beatriz-Tanque/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
 ## `> connect --socials`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/beatriz-tanque/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:beatriz.r.tanque@gmail.com"><img src="https://img.shields.io/badge/-Email-16213E?style=for-the-badge&logo=gmail&logoColor=7DA6E8" /></a>
-<a href="https://beatriz-tanque.github.io/simple-site"><img src="https://img.shields.io/badge/-Portfolio-1B263B?style=for-the-badge&logo=googlechrome&logoColor=7DA6E8" /></a>
-
 </div>
 
 <br/>
