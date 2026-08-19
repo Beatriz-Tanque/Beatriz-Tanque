@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7DA6E8&center=true&vCenter=true&width=650&lines= alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/beatriz-tanque/"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=7DA6E8" /></a>
 <a href="https://beatriz-tanque.github.io/simple-site"><img src="https://img.shields.io/badge/Portfolio-16213E?style=for-the-badge&logo=googlechrome&logoColor=7DA6E8" /></a>
 <a href="mailto:beatriz.r.tanque@gmail.com"><img src="https://img.shields.io/badge/Email-1B263B?style=for-the-badge&logo=gmail&logoColor=7DA6E8" /></a>
