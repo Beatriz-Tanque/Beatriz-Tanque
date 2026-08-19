@@ -97,28 +97,9 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 
 <br/>
 
-## `> current_objectives.log`
-
-```bash
-[OK]      Fundamentos de redes e segurança da informação
-[OK]      Primeiro scan com Nmap em ambiente controlado
-[RUNNING] Home lab de cybersecurity documentado no GitHub
-[RUNNING] Aprendizado de Java (fundamentos e OOP)
-[PENDING] Primeira vaga de estágio / Jovem Aprendiz em TI
-```
-
-<br/>
-
 ## `> system_stats --render`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Beatriz-Tanque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=7DA6E8&icon_color=7DA6E8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Tanque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=7DA6E8&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Beatriz-Tanque&theme=tokyonight&hide_border=true&background=0A0E27&stroke=7DA6E8&ring=7DA6E8&fire=7DA6E8&currStreakLabel=7DA6E8" />
 
 <br/>
 
