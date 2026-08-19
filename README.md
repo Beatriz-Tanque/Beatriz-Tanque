@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7DA6E8&center=true&vCenter=true&width=650&lines=Em+busca+de+est%C3%A1gio+%2F+Jovem+Aprendiz+em+TI;Home+lab+com+Kali+Linux+%2B+Nmap;Aprendendo+Java+na+pr%C3%A1tica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7DA6E8&center=true&vCenter=true&width=650&lines= alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,10 +20,7 @@
 
 ```yaml
 nome: Beatriz Tanque
-formacao: Ciência da Computação (2º semestre) — Centro Universitário Padre Anchieta
-cidade: Jundiaí, SP
-foco: Cybersecurity
-status: Buscando estágio ou Jovem Aprendiz em TI
+formacao: Ciência da Computação
 ```
 
 Estudante de Ciência da Computação em início de trajetória em segurança da informação. Prática hands-on em ambiente virtualizado próprio, priorizando entender o sistema por dentro em vez de só usar ferramenta pronta.
