@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:16213E,100:1B263B&height=230&section=header&text=BEATRIZ%20TANQUE&fontSize=44&fontColor=7DA6E8&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Cybersecurity&descAlignY=55&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173B63,50:214F7B,100:2D628F&height=230&section=header&text=BEATRIZ%20TANQUE&fontSize=44&fontColor=EAF2F8&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Cybersecurity&descAlignY=55&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
