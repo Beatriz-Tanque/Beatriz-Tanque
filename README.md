@@ -75,7 +75,7 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
       <h3 align="center">🌐 Portfólio Pessoal</h3>
       <p align="center">Site em HTML e CSS puro, hospedado via GitHub Pages, com páginas de sobre, contato e projetos.</p>
       <p align="center">
-        <a href="https://beatriz-tanque.github.io/simple-site"><img src="https://img.shields.io/badge/ver_site-16213E?style=flat-square&logo=googlechrome&logoColor=7DA6E8" /></a>
+        <a href="https://beatriz-tanque.github.io/Portfolio/"><img src="https://img.shields.io/badge/ver_site-16213E?style=flat-square&logo=googlechrome&logoColor=7DA6E8" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
