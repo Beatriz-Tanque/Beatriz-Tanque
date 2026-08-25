@@ -45,7 +45,6 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 ![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=7DA6E8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0A0E27?style=for-the-badge&logo=intellijidea&logoColor=7DA6E8)
 
 </div>
 
