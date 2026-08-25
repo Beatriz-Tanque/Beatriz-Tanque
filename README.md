@@ -43,8 +43,8 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0A0E27?style=for-the-badge&logo=virtualbox&logoColor=7DA6E8)
 ![Nmap](https://img.shields.io/badge/Nmap-0A0E27?style=for-the-badge&logo=nmap&logoColor=7DA6E8)
 ![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=7DA6E8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=7DA6E8)
 
 </div>
 
