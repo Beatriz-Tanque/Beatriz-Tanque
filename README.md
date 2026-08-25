@@ -90,14 +90,6 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beatriz-Tanque&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=7DA6E8&line=7DA6E8&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
 ## `> connect --socials`
 
 <div align="center">
