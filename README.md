@@ -90,11 +90,7 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 
 <br/>
 
-## `> system_stats --render`
-
 <div align="center">
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beatriz-Tanque&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=7DA6E8&line=7DA6E8&point=ffffff" width="100%"/>
 
@@ -119,6 +115,6 @@ Estudante de Ciência da Computação em início de trajetória em segurança da
 > END OF PROFILE TRANSMISSION
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,50:16213E,100:0A0E27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173B63,50:214F7B,100:2D628F&height=100&section=footer" width="100%"/>
 
 </div>
